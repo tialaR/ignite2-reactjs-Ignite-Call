@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Ignite Call
+
+The Design system used by this application is Ignite UI
+This DS was built in one of the modules of the Ignite course track.
+DS Ignite UI is found in the following repository:
+https://github.com/tialaR/ignite2-reactjs-05-design-system
 
 ## Getting Started
 
@@ -6,12 +11,6 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
